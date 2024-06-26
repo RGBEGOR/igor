@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcli"]=self["webpackChunkcli"]||[]).push([[954],{6954:function(n,c,r){r.r(c),r.d(c,{default:function(){return o}});var s=r(3396);const u={class:"laws"},e=(0,s._)("span",null,"Тут материал по праву",-1),t=[e];function a(n,c,r,e,a,l){return(0,s.wg)(),(0,s.iD)("div",u,t)}var l={},i=r(89);const f=(0,i.Z)(l,[["render",a]]);var o=f}}]);
+//# sourceMappingURL=954.ddc022b0.js.map
